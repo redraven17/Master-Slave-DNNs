@@ -11,7 +11,7 @@ which is executed twice (once as the master and then as the slave) in the main f
 <img src="Results\flow.png" height="300" width="600"/>
 
 # Results
-<img src="Results\master_cost.png" height="100" width="200"/><img src="Results\slave_cost.png" height="100" width="200"/><img src="Results\standalone_cost.png" height="100" width="200"/>
+<img src="Results\master_cost.png" height="200" width="250"/><img src="Results\slave_cost.png" height="200" width="250"/><img src="Results\standalone_cost.png" height="200" width="250"/>
 
-<img src="Results\master_iter.png" height="100" width="200"/><img src="Results\slave_iter.png" height="100" width="200"/><img src="Results\standalone_iter.png" height="100" width="200"/>
+<img src="Results\master_iter.png" height="200" width="250"/><img src="Results\slave_iter.png" height="200" width="250"/><img src="Results\standalone_iter.png" height="200" width="250"/>
 
