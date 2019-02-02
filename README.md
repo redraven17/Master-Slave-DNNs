@@ -15,3 +15,5 @@ which is executed twice (once as the master and then as the slave) in the main f
 
 <img src="Results\master_iter.png" height="200" width="250"/><img src="Results\slave_iter.png" height="200" width="250"/><img src="Results\standalone_iter.png" height="200" width="250"/>
 
+# Acknowledgment
+We would like to recognize the funding support provided by the Science & Engineering Research Board, a statutory body of the Department of Science & Technology (DST), Government of India, SERB file number ECR/2016/000637. 
